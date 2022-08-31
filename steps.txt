@@ -1,0 +1,2 @@
+database named pustak_db is inside folder "db".
+on importing the database the project will run.
